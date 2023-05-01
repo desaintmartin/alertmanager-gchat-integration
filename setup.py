@@ -26,7 +26,7 @@ setup(
     packages=["alertmanager_gchat_integration"],
     include_package_data=True,
     install_requires=[
-        "flask==1.1.2",
+        "flask==2.3.2",
         "prometheus-flask-exporter==0.18.1",
         "gunicorn==20.0.4",
         "toml",
