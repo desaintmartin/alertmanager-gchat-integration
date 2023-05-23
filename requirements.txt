@@ -16,7 +16,7 @@ jinja2==2.11.3            # via alertmanager-gchat-integration (setup.py), flask
 markupsafe==1.1.1         # via jinja2
 prometheus-client==0.9.0  # via prometheus-flask-exporter
 prometheus-flask-exporter==0.18.1  # via alertmanager-gchat-integration (setup.py)
-requests==2.25.1          # via alertmanager-gchat-integration (setup.py)
+requests==2.31.0          # via alertmanager-gchat-integration (setup.py)
 toml==0.10.2              # via alertmanager-gchat-integration (setup.py)
 urllib3==1.26.4           # via requests
 werkzeug==1.0.1           # via flask
