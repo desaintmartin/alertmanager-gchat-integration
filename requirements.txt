@@ -4,7 +4,7 @@
 #
 #    pip-compile --no-index
 #
-certifi==2020.12.5        # via requests
+certifi==2023.7.22        # via requests
 chardet==4.0.0            # via requests
 click==7.1.2              # via flask
 flask==1.1.2              # via alertmanager-gchat-integration (setup.py), prometheus-flask-exporter
